@@ -15,5 +15,7 @@ A website to host important programs
 - **Internet Explorer** : For testing compatibility.
 - **Chrome mobile** : For testing the responsive design of the site.
 - **Opera Mini Mobile** : To test how our site looks when compressed.
+
+I do not recommend any IDE such as WebStorm or DreamWeaver but if you are comfatable using such programs then by all means go ahead. 
 Please note that other members will also be joining this project
 once they have made the necessary preparations.
