@@ -1,0 +1,22 @@
+header > h1 {
+  float: left;
+  font-style: oblique;
+  color: red;
+}
+
+header nav > ul {
+  float : left;
+  font-style: bold;
+  font: verdana;
+}
+
+header nav > form {
+  float: left;
+}
+
+div.interstingInformation
+section#noOfDownloads ,
+section#lastUpdate {
+  float: left;
+  padding: 20px
+}
